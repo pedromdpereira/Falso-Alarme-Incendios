@@ -1,4 +1,4 @@
-# Falso-Alarme-Incêndios
+# Previsor de Falso Alarme para Incêndios
 Previsor que permite detetar se uma alerta de incêndio é um falso alarme com base na hora, data, local entre outras variáveis.
 De momento encontra-se com 85% de accuracy, embora seja possível melhorar este valor com outros algoritmos ou adicionar/retirar variáveis.
 
