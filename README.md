@@ -1,6 +1,6 @@
-# Falso-Alarme-Inc-ndios
+# Falso-Alarme-Incêndios
 Previsor que permite detetar se uma alerta de incêndio é um falso alarme com base na hora, data, local entre outras variáveis.
-
+De momento encontra-se com 85% de accuracy, embora seja possível melhorar este valor com outros algoritmos ou adicionar/retirar variáveis.
 
 # Descrição do Dataset
 Variáveis:
@@ -23,6 +23,8 @@ São 38 no total.
   - seaborn
   - time
   
+  # Nota de Agradecimento:
+  Agradeço ao projecto central de dados por este fantástico dataset.
   # Links Importantes:
   - DataSet utilizado:http://centraldedados.pt/incendios/ 
     https://github.com/centraldedados/incendios
